@@ -1,0 +1,9 @@
+flutter_native_splash:
+  color: "#673AB7"  # FON RANGI
+
+
+  android_12:
+    icon_background_color: "#ffffff"  # Android 12 uchun fon rangi
+
+
+  web: false  # Web uchun Splash kerak emas
